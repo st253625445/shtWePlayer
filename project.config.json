@@ -1,0 +1,13 @@
+{
+  "description": "仿网易云小程序播放器",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wxc85730d810a316e0",
+  "projectname": "shtweplayer",
+  "miniprogramRoot": "./dist"
+}
